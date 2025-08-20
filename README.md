@@ -1,6 +1,6 @@
-# ranlp2025-lendvaietal-churchslavic-instructionfinetuning
+# rabout
 
-Appendix of the RANLP2025 conference paper _Instruction Finetuning to Attribute Language Stage, Dialect and Provenance Region to Historical Church Slavic Texts_ by P. Lendvai, U. Reichel, A. Jouravel, A. Rabus, and E. Renje.
+This is the Appendix of the RANLP2025 conference paper _Instruction Finetuning to Attribute Language Stage, Dialect and Provenance Region to Historical Church Slavic Texts_ by P. Lendvai, U. Reichel, A. Jouravel, A. Rabus, and E. Renje.
 
 
 ## Appendix 
@@ -52,4 +52,12 @@ Confusion matrices for joint Language stage, Dialect, and Region labeling by the
 
 
 ###  Precision, Recall, and F-scores
+
+####  Language stage 
+
+Precision, Recall, and F-scores for Language stage labeling by the finetuned model on the clean test set (top) and on the noisy set (bottom). ECS: Early Church Slavic,  LCS: Late Church Slavic, MCS: Middle Church Slavic.
+
+<img src="https://github.com/pirolen/ranlp2025-lendvaietal-churchslavic-instructionfinetuning/blob/main/appendix/pics/performance_barplots/noncorrupted_texts/bar-language.png" width="400">
+
+<img src="https://github.com/pirolen/ranlp2025-lendvaietal-churchslavic-instructionfinetuning/blob/main/appendix/pics/performance_barplots/corrupted_texts/bar-language.png" width="400">
 
