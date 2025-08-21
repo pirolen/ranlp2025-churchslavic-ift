@@ -97,7 +97,7 @@ Precision, Recall, and F-scores for joint Language stage, Dialect, and Region pr
 
 Sentence length distributions in Early Church Slavic datasets. _x_ axis: words per snippet, _y_ axis: probability density.
 
-<img src="https://github.com/pirolen/ranlp2025-churchslavic-ift/blob/main/pics/sentence_length_density_plots/lenprioel.png" width="400">
+<img src="https://github.com/pirolen/ranlp2025-churchslavic-ift/blob/main/pics/sentence_length_density_plots/lenproiel.png" width="400">
 <img src="https://github.com/pirolen/ranlp2025-churchslavic-ift/blob/main/pics/sentence_length_density_plots/lenlepra.png" width="400">
 <img src="https://github.com/pirolen/ranlp2025-churchslavic-ift/blob/main/pics/sentence_length_density_plots/lencyril.png" width="400">
 
