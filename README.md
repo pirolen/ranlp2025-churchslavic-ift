@@ -1,7 +1,18 @@
 # About
 
-This is the Appendix of the RANLP2025 conference paper _Instruction Finetuning to Attribute Language Stage, Dialect and Provenance Region to Historical Church Slavic Texts_ by P. Lendvai, U. Reichel, A. Jouravel, A. Rabus, and E. Renje.
+This is the Appendix of the RANLP2025 conference paper _Instruction Finetuning to Attribute Language Stage, Dialect, and Provenance Region to Historical Church Slavic Texts_ by P. Lendvai, U. Reichel, A. Jouravel, A. Rabus, and E. Renje.
 
+BibTeX citation for the paper:
+
+```bibtex
+@inproceedings{lendvaireicheletal2025churchslavicift,
+  author  = {Piroska Lendvai and Uwe Reichel and Anna Jouravel and Achim Rabus and Elena Renje},
+  title   = {Instruction Finetuning to Attribute Language Stage, Dialect, and Provenance Region to Historical Church Slavic Texts},
+  booktitle = {Proceedings of the International Conference on Recent Advances in Natural Language Processing (RANLP2025)},
+  year      = {2025},
+  address   = {Varna, Bulgaria},
+}
+```
 
 ## Appendix 
 
